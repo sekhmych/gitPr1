@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 
+// enter point of programm
 int main() {
 	std::string name;
 	std::cout << "Please, enter your name: ";
